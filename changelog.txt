@@ -1,0 +1,26 @@
+##############################################################################
+
+V1.0
+
+-Initial Release
+
+##############################################################################
+
+V1.01
+
+-Fixed an issue reading M4A files
+-Fixed an issue where certain notes were not properly read
+-There is no longer an error message if you do not select an image
+-Removed unnecessary libraries in the code
+
+##############################################################################
+
+V1.02
+
+-Source code released
+-Fixed an issue where alternate themes were not being set correctly
+-Fixed an issue where an incorrect output folder was set after a conversion
+-Fixed an issue where a folder could not be overwritten
+-Added a confirmation dialog when overwriting a folder
+
+##############################################################################
